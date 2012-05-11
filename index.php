@@ -1,0 +1,2 @@
+<?
+echo 'Facebook Album Downloader';
